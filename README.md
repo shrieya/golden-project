@@ -1,1 +1,2 @@
-# golden-project
+# synchronousBallMovement
+Ball moving synchronously
